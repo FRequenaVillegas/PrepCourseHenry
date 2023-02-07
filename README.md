@@ -1,2 +1,1 @@
-# PrepCourseHenry
-Este es un repositorio del modulo 2
+Este proyecto es una prueba de clonacion y cambiarle de gitbush
